@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.party{
+
+}
+
+.section{
+  display: flex;
+flex-direction: row;
+/* justify-content: space-around; */
+}
+
+.main{
+  width: 60%;
+  padding-left: 50px;
+}
+
+.sum-div{
+  display: flex;
+}
+
+.sumInput{
+width:50px;
+}
